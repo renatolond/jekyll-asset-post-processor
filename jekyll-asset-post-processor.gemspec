@@ -11,5 +11,4 @@ Gem::Specification.new do |s|
     s.add_runtime_dependency 'jekyll', '>= 3.5', '< 5.0'
     s.add_runtime_dependency 'jekyll-watch', '~> 2.0'
     s.add_runtime_dependency 'liquid', '~> 4.0'
-    s.add_runtime_dependency 'sassc', '~> 2.0'
 end
